@@ -1,5 +1,6 @@
 Hi, I'm Hamid 👋
-<p style="display:flex;">
-<img src="./assets/storybook.svg" alt=""/> 
-<a href="https://hamidheyde.github.io/Storybook" rel="nofollow">My Storybook</a>
-</p>
+<br/>
+<div style="display:flex; flex-direction:row;">
+  <img src="./assets/storybook.svg" alt="storybookLogo"/> 
+  <a href="https://hamidheyde.github.io/Storybook" target=”_blank”>My Storybook</a>
+</div>
