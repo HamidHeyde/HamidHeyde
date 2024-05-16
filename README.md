@@ -1,1 +1,1 @@
-![](./assets/1stLine.svg)
+![](./assets/main.svg)
