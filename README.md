@@ -1,3 +1,3 @@
 Hi, I'm Hamid 👋
 
-![](./assets/storybook.svg) [My Storybook](https://hamidheyde.github.io/Storybook)
+<img src="./assets/storybook.svg" alt=""/> [My Storybook](https://hamidheyde.github.io/Storybook)
